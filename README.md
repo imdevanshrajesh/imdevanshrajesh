@@ -53,11 +53,11 @@ Build. Create. Reimagine.
 <p align="center">
   <a href="https://urnotdeva.com"><img src="https://img.shields.io/badge/Website-urnotdeva.com-0a0a09?style=for-the-badge" alt="Website"/></a>
   <a href="https://buildkre.com"><img src="https://img.shields.io/badge/BuildKRE-buildkre.com-0a0a09?style=for-the-badge" alt="BuildKRE"/></a>
-  <a href="https://github.com/devabydev"><img src="https://img.shields.io/badge/GitHub-devabydev-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-  <a href="https://x.com/devabydev"><img src="https://img.shields.io/badge/X-devabydev-000000?style=for-the-badge&logo=X&logoColor=white" alt="X"/></a>
-  <a href="https://youtube.com/@devabydev"><img src="https://img.shields.io/badge/YouTube-devabydev-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/></a>
-  <a href="https://instagram.com/devabydev"><img src="https://img.shields.io/badge/Instagram-devabydev-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
-  <a href="https://ko-fi.com/devabydev"><img src="https://img.shields.io/badge/Ko--fi-devabydev-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Ko-fi"/></a>
+  <a href="https://github.com/imdevanshrajesh"><img src="https://img.shields.io/badge/GitHub-imdevanshrajesh-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+  <a href="https://x.com/imdevanshrajesh"><img src="https://img.shields.io/badge/X-imdevanshrajesh-000000?style=for-the-badge&logo=X&logoColor=white" alt="X"/></a>
+  <a href="https://youtube.com/@imdevanshrajesh"><img src="https://img.shields.io/badge/YouTube-imdevanshrajesh-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/></a>
+  <a href="https://instagram.com/imdevanshrajesh"><img src="https://img.shields.io/badge/Instagram-imdevanshrajesh-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
+  <a href="https://ko-fi.com/imdevanshrajesh"><img src="https://img.shields.io/badge/Ko--fi-imdevanshrajesh-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Ko-fi"/></a>
   <a href="mailto:hello@urnotdeva.com"><img src="https://img.shields.io/badge/Email-hello@urnotdeva.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
 
@@ -67,8 +67,8 @@ Build. Create. Reimagine.
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api?username=devabydev&show_icons=true&hide_border=true&bg_color=0a0a09&title_color=f0ede6&text_color=c8c4bb&icon_color=22EBF7">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-stats-extended.vercel.app/api?username=devabydev&show_icons=true&hide_border=true&bg_color=f3f0e8&title_color=161513&text_color=3a3835&icon_color=0a7a82">
-    <img src="https://github-stats-extended.vercel.app/api?username=devabydev&show_icons=true&hide_border=true&bg_color=0a0a09&title_color=f0ede6&text_color=c8c4bb&icon_color=22EBF7" alt="urnotdeva GitHub stats"/>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api?username=imdevanshrajesh&show_icons=true&hide_border=true&bg_color=0a0a09&title_color=f0ede6&text_color=c8c4bb&icon_color=22EBF7">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-stats-extended.vercel.app/api?username=imdevanshrajesh&show_icons=true&hide_border=true&bg_color=f3f0e8&title_color=161513&text_color=3a3835&icon_color=0a7a82">
+    <img src="https://github-stats-extended.vercel.app/api?username=imdevanshrajesh&show_icons=true&hide_border=true&bg_color=0a0a09&title_color=f0ede6&text_color=c8c4bb&icon_color=22EBF7" alt="urnotdeva GitHub stats"/>
   </picture>
 </p>
