@@ -62,13 +62,3 @@ Build. Create. Reimagine.
 </p>
 
 ---
-
-## GitHub stats
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api?username=imdevanshrajesh&show_icons=true&hide_border=true&bg_color=0a0a09&title_color=f0ede6&text_color=c8c4bb&icon_color=22EBF7">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-stats-extended.vercel.app/api?username=imdevanshrajesh&show_icons=true&hide_border=true&bg_color=f3f0e8&title_color=161513&text_color=3a3835&icon_color=0a7a82">
-    <img src="https://github-stats-extended.vercel.app/api?username=imdevanshrajesh&show_icons=true&hide_border=true&bg_color=0a0a09&title_color=f0ede6&text_color=c8c4bb&icon_color=22EBF7" alt="urnotdeva GitHub stats"/>
-  </picture>
-</p>
