@@ -1,7 +1,7 @@
 <h1 align="center">d e v a</h1>
 
 <p align="center">
-  <strong>Devansh Rajesh</strong> — student, engineer, and founder of <a href="https://buildkre.com">BuildKRE</a>
+  <strong>Devansh Rajesh</strong> — student, engineer, and founder of <a href="https://buildkre.com" target="_blank">BuildKRE</a>
 </p>
 
 <p align="center">
@@ -20,7 +20,7 @@
 ## BuildKRE
 
 <p align="center">
-  <a href="https://buildkre.com">
+  <a href="https://buildkre.com target="_blank"">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="./assets/buildkre-dark.svg">
       <source media="(prefers-color-scheme: light)" srcset="./assets/buildkre-light.svg">
@@ -51,14 +51,14 @@ Build. Create. Reimagine.
 ## Socials
 
 <p align="center">
-  <a href="https://urnotdeva.com"><img src="https://img.shields.io/badge/Website-urnotdeva.com-0a0a09?style=for-the-badge" alt="Website"/></a>
-  <a href="https://buildkre.com"><img src="https://img.shields.io/badge/BuildKRE-buildkre.com-0a0a09?style=for-the-badge" alt="BuildKRE"/></a>
-  <a href="https://github.com/imdevanshrajesh"><img src="https://img.shields.io/badge/GitHub-imdevanshrajesh-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-  <a href="https://x.com/imdevanshrajesh"><img src="https://img.shields.io/badge/X-imdevanshrajesh-000000?style=for-the-badge&logo=X&logoColor=white" alt="X"/></a>
-  <a href="https://youtube.com/@imdevanshrajesh"><img src="https://img.shields.io/badge/YouTube-imdevanshrajesh-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/></a>
-  <a href="https://instagram.com/imdevanshrajesh"><img src="https://img.shields.io/badge/Instagram-imdevanshrajesh-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
-  <a href="https://ko-fi.com/imdevanshrajesh"><img src="https://img.shields.io/badge/Ko--fi-imdevanshrajesh-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Ko-fi"/></a>
-  <a href="mailto:hello@urnotdeva.com"><img src="https://img.shields.io/badge/Email-hello@urnotdeva.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://urnotdeva.com" target="_blank"><img src="https://img.shields.io/badge/Website-urnotdeva.com-0a0a09?style=for-the-badge" alt="Website"/></a>
+  <a href="https://buildkre.com" target="_blank"><img src="https://img.shields.io/badge/BuildKRE-buildkre.com-0a0a09?style=for-the-badge" alt="BuildKRE"/></a>
+  <a href="https://github.com/imdevanshrajesh" target="_blank"><img src="https://img.shields.io/badge/GitHub-imdevanshrajesh-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+  <a href="https://x.com/imdevanshrajesh" target="_blank"><img src="https://img.shields.io/badge/X-imdevanshrajesh-000000?style=for-the-badge&logo=X&logoColor=white" alt="X"/></a>
+  <a href="https://youtube.com/@imdevanshrajesh" target="_blank"><img src="https://img.shields.io/badge/YouTube-imdevanshrajesh-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/></a>
+  <a href="https://instagram.com/imdevanshrajesh" target="_blank"><img src="https://img.shields.io/badge/Instagram-imdevanshrajesh-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
+  <a href="https://ko-fi.com/imdevanshrajesh" target="_blank"><img src="https://img.shields.io/badge/Ko--fi-imdevanshrajesh-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Ko-fi"/></a>
+  <a href="mailto:hello@urnotdeva.com" target="_blank"><img src="https://img.shields.io/badge/Email-hello@urnotdeva.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
 
 ---
